@@ -1,6 +1,7 @@
 # CallerCaller
 
-![gui](https://user-images.githubusercontent.com/28836106/209777622-8edf381b-0f31-4a31-9060-8f95b977f152.png)
+![gui_resized](https://user-images.githubusercontent.com/28836106/209777832-9bd2e726-9e9b-4064-b70e-6de6325890ad.png)
+
 
 A VST3 which outputs MIDI note-on(48-C3 ch.1) when volume exceeds threshold
 

@@ -1,6 +1,7 @@
 # CallerCaller
 
 A VST3 which outputs MIDI note-on(48-C3 ch.1) when volume exceeds threshold
+
 音量が閾値を超えたときにMIDIノートオンを送信するVST3プラグイン
 
 https://twitter.com/koisignal1/status/1596540314629468160?s=20&t=88NK6IK4GnIBHKriFVgUew
@@ -8,7 +9,8 @@ https://twitter.com/koisignal1/status/1596540314629468160?s=20&t=88NK6IK4GnIBHKr
 ### 使い方
 
 ・thresholdで閾値となる音量をデシベルで指定します。　
-　閾値を超えるとMIDI ch.1のC3(ノートナンバー48)のノートオンが出力されます。
+
+・閾値を超えるとMIDI ch.1のC3(ノートナンバー48)のノートオンが出力されます。
  
 ・lengthで設定したミリ秒後にノートオフが出力されます。
 
